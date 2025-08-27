@@ -10,10 +10,10 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif" width="10%" style="display:inline;">
 </div>
-
+<!--
 <div style="display: inline_block">
     <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHRChaves&layout=compact&hide_border=true&title_color=FFFFFF&text_color=B0C4DE&bg_color=000000" alt="Mais utilizadas"/>
-</div>
+</div>-->
 <br>
 <h1></h1>
 <!--
